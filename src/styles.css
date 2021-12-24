@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#emojis {
+  font-size: 2em;
+  cursor: pointer;
+}
+
+#emojiName {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+#emojiInput {
+  padding: 1em;
+  font-size: 0.8rem;
+  width: 50%;
+}
